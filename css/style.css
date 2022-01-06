@@ -41,7 +41,7 @@ body {
   margin-left: 15px;
 }
 
-.bx-arrow-to-bottom {
+.bb-ic {
   margin-left: 10px;
 }
 
@@ -89,8 +89,8 @@ body {
   height: 100%;
   border-right: 1px solid rgba(29, 29, 29, 0.418);
   padding: 15px;
-  background: rgb(245, 245, 245);
-  box-shadow: 0px 180px 8px 0px rgba(39, 39, 39, 0.151);
+  background: rgb(248, 248, 248);
+  box-shadow: 2px 0px 5px 0px rgba(39, 39, 39, 0.158);
   z-index: 1050;
 }
 
@@ -169,7 +169,7 @@ body {
   width: 100%;
   height: 180px;
   padding: 20px;
-  background: rgb(245, 245, 245);
+  background: rgb(248, 248, 248);
   box-shadow: 5px 0px 10px 0px rgba(39, 39, 39, 0.301);
   z-index: 1050;
 
@@ -234,6 +234,20 @@ body {
 
 .figma__makets {
   padding: 200px 80px 40px 40px;
+}
+
+.tit__icons {
+  margin-right: 40px;
+  margin-bottom: 10px;
+}
+
+.tit-icon {
+  font-size: 14px;
+  color: inherit;
+}
+
+.bx-grid-alt {
+  color: rgb(14, 14, 236);
 }
 
 .makets__manu {

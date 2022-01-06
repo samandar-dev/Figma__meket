@@ -118,12 +118,14 @@ body {
 }
 
 .nav__list-btn {
-  padding: 2px;
+  padding: 5px;
   border-radius: 5px;
   border: none;
   border: 1px solid rgba(0, 0, 0, 0.692);
   margin-left: 30px;
   margin-top: 20px;
+  font-size: 14px;
+  color: inherit;
 }
 
 .nav-actv {

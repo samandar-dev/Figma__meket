@@ -255,9 +255,9 @@ body {
 }
 
 .makets__list {
-  width: 320px;
+  width: 280px;
   height: 270px;
-  /* margin-right: 40px; */
+  margin-right: 15px;
   margin-bottom: 40px;
   border: 1px solid rgba(49, 48, 48, 0.473);
   border-radius: 10px;
@@ -268,7 +268,7 @@ body {
 }
 
 .makets__img {
-  width: 318px;
+  width: 278px;
   background-size: cover;
   border-radius: 10px;
 }
@@ -280,6 +280,7 @@ body {
 .makets__title {
   font-size: 14px;
   color: rgba(37, 37, 37, 0.788);
+  width: 200px;
 }
 
 .bx-question-mark {
